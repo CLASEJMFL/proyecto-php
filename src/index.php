@@ -15,8 +15,10 @@
         die("Error de conexión: " . $conexion->connect_error);
     }
 
-    echo "<h1>Conexión realizada correctamente</h1>";    
+    echo "<h1>Actividades php Desarrollo web entorno servidor 2ºDAW</h1>";    
 ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,15 +31,15 @@
         <li><a href="tema2.2/ejercicio1.php">Ejercicio-1</a></li>
         <li><a href="tema2.2/ejercicio2.php">Ejercicio-2</a></li>
         <li><a href="tema2.2/ejercicio3.php">Ejercicio-3</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-4</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-5</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-6</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-7</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-8</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-9</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-10</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-11</a></li>
-        <li><a href="tema2.2/ejercicio3.php">Ejercicio-12</a></li>
+        <li><a href="tema2.2/ejercicio4.php">Ejercicio-4</a></li>
+        <li><a href="tema2.2/ejercicio5.php">Ejercicio-5</a></li>
+        <li><a href="tema2.2/ejercicio6.php">Ejercicio-6</a></li>
+        <li><a href="tema2.2/ejercicio7.php">Ejercicio-7</a></li>
+        <li><a href="tema2.2/ejercicio8.php">Ejercicio-8</a></li>
+        <li><a href="tema2.2/ejercicio9.php">Ejercicio-9</a></li>
+        <li><a href="tema2.2/ejercicio10.php">Ejercicio-10</a></li>
+        <li><a href="tema2.2/ejercicio11.php">Ejercicio-11</a></li>
+        <li><a href="tema2.2/ejercicio12.php">Ejercicio-12</a></li>
     </ul>
 </body>
 </html>
