@@ -25,7 +25,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Ejercicios php</h1>
+    <h1>Ejercicios php 3.3</h1>
     <ul>
         <li><a href="3.3/ejercicio1.php">Ejercicio-1</a></li>
         <li><a href="3.3/ejercicio2.php">Ejercicio-2</a></li>
@@ -40,12 +40,22 @@
         <li><a href="3.3/ejercicio11.php">Ejercicio-11</a></li>
         <li><a href="3.3/ejercicio12.php">Ejercicio-12</a></li>
     </ul>
+    <h1>Ejercicios php 3.7</h1>
     <ul>
         <li><a href="3.7/ejercicio1.php">Ejercicio-1</a></li>
         <li><a href="3.7/ejercicio2.php">Ejercicio-2</a></li>
         <li><a href="3.7/ejercicio3.php">Ejercicio-3</a></li>
         <li><a href="3.7/ejercicio4.php">Ejercicio-4</a></li>
         <li><a href="3.7/ejercicio5.php">Ejercicio-5</a></li>
+    </ul>
+    <h1>Ejercicios php 4</h1>
+    <ul>
+        <li><a href="4/ejercicio1.php">Ejercicio-1</a></li>
+        <li><a href="4/ejercicio2.php">Ejercicio-2</a></li>
+        <li><a href="4/ejercicio4.php">Ejercicio-4</a></li>
+        <li><a href="4/ejercicio5.php">Ejercicio-5</a></li>
+        <li><a href="4/ejercicio6.php">Ejercicio-6</a></li>
+        <li><a href="4/ejercicio7.php">Ejercicio-7</a></li>
     </ul>
 
 </body>
