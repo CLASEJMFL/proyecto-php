@@ -10,8 +10,6 @@ contorno hecho con asteriscos). <br><br>
 
     $aire = substr($aire, 6); 
     $añadiraire = "&nbsp".$añadiraire;
-
     for ($i = 0; $i < 5; $i++) {
-
     }
 ?>
