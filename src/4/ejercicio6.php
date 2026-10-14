@@ -20,7 +20,7 @@ if (isset($_POST["comprobar"])) {
 
             echo "<td>";
             if ($casilla == $i) {
-                echo "<img src='trozo$i.jpg' width='100'>";
+                echo "<img src='trozo$i.png' width='100'>";
             } else {
                 echo "<button name='casilla' value='$i'>?</button>";
             }
@@ -36,7 +36,7 @@ if (isset($_POST["comprobar"])) {
     <p><?php echo $mensaje; ?></p>
 
     <?php if ($mensaje == "¡Has acertado!") { ?>
-        <img src="imagen.jpg" width="300">
+        <img src="imagen.png" width="300">
     <?php } ?>
 
 </form>

@@ -21,7 +21,7 @@ if (isset($_POST["casilla"])) {
             for ($i = 1; $i <= 9; $i++) {
                 echo "<td>";
                 if ($casilla == $i) {
-                    echo "<img src='trozo$i.jpg' width='100'>";
+                    echo "<img src='trozo$i.png' width='100'>";
                 } else {
                     echo "<button name='casilla' value='$i'>?</button>";
                 }
@@ -35,7 +35,7 @@ if (isset($_POST["casilla"])) {
     <button name="comprobar">Comprobar</button>
     <p><?php echo $mensaje; ?></p>
     <?php if ($mensaje == "¡Felicidades! Has acertado.") { ?>
-        <img src="imagen.jpg" width="300">
+        <img src="imagen.png" width="300">
     <?php } ?>
     <button name="volver">Volver</button>
 </form>
